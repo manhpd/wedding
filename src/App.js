@@ -3,7 +3,6 @@ import Countdown from './components/Countdown';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import RSVP from './components/RSVP';
-import Seeyou from './components/Seeyou';
 import Sidebar from './components/Sidebar';
 import Where from './components/Where';
 
