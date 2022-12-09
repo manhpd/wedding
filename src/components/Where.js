@@ -20,7 +20,7 @@ function Where () {
             </div>
             <div className='content'>
               <h5>Lễ ăn hỏi</h5>
-              <button><a href='https://goo.gl/maps/wWuUDZgW84QQgNd2A' target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
+              <button><a href='https://goo.gl/maps/wWuUDZgW84QQgNd2A' rel="noreferrer" target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
               <p>
                 <i className='ti-location-pin'></i> Nhà khách Nghệ An, 
                 Số 4 Phan Đăng Lưu - Trường Thi - TP. Vinh - Nghệ An
@@ -39,7 +39,7 @@ function Where () {
             </div>
             <div className='content'>
               <h5>Lễ Cưới</h5>
-              <button><a href='https://goo.gl/maps/HdN5JnWH8MfR8CHF8' target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
+              <button><a href='https://goo.gl/maps/HdN5JnWH8MfR8CHF8' rel="noreferrer" target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
               <p>
                 <i className='ti-location-pin'></i> Trống Đồng Palace Cảnh Hồ, 
                 173B Trường Chinh - Khương Mai - Thanh Xuân - Hà Nội
