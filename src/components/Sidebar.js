@@ -21,7 +21,7 @@ function Sidebar () {
             <span>
               Yến <small>&</small> Mạnh
             </span>
-            <h6>30.12.2021</h6>
+            <h6>30.12.2022</h6>
           </a>
         </div>
         <nav className='oliven-main-menu'>
@@ -30,22 +30,13 @@ function Sidebar () {
               <a href='#home'>Home</a>
             </li>
             <li>
-              <a href='#couple'>Couple</a>
+              <a href='#couple'>Cô dâu Chú rể</a>
             </li>
             <li>
-              <a href='#story'>Our Story</a>
+              <a href='#whenwhere'>Thời gian & Địa điểm</a>
             </li>
             <li>
-              <a href='#organization'>Organization</a>
-            </li>
-            <li>
-              <a href='#gallery'>Gallery</a>
-            </li>
-            <li>
-              <a href='#whenwhere'>When & Where</a>
-            </li>
-            <li>
-              <a href='#rsvp'>R.S.V.P</a>
+              <a href='#rsvp'>Đặt Chỗ</a>
             </li>
           </ul>
         </nav>
@@ -53,11 +44,41 @@ function Sidebar () {
           {' '}
           <span className='separator'></span>
           <p>
-            Olivia & Enrico wedding
+            Đám cưới Hoàng Yến & Đức Mạnh
             <br />
-            15 December 2021, New York
+            30 tháng 12, 2022, Hà Nội
           </p>
         </div>
+      </aside>
+
+
+      <aside className='nav-bar'>
+        <div className='oliven-logo'>
+          <a href='/'>
+            <img src={Logo} alt='' />
+            <span>
+              Yến <small>&</small> Mạnh
+            </span>
+            <h6>30.12.2022</h6>
+          </a>
+        </div>
+        <nav className='oliven-main-menu'>
+          <ul>
+            <li>
+              <a href='#home'>Home</a>
+            </li>
+            <li>
+              <a href='#couple'>Cô dâu Chú rể</a>
+            </li>
+            <li>
+              <a href='#whenwhere'>Thời gian & Địa điểm</a>
+            </li>
+            <li className='rsvp'>
+              <a  href='#rsvp'>Đặt Chỗ</a>
+            </li>
+          </ul>
+        </nav>
+       
       </aside>
     </>
   )

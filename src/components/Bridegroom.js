@@ -17,31 +17,18 @@ function Bridegroom () {
               </div>
               <div className='info valign'>
                 <div className='full-width'>
+                  <span>Cô dâu</span>
                   <h6>
-                    Hoàng Yến <i className='ti-heart'></i>
+                    Nguyễn Hoàng Yến <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Bride</span>
-                  <p>
-                    Olivia fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
-                  </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
+                  <span>Nhà gái</span>
+                  <h6>
+                   Nguyễn Lương Mạnh <i className='ti-heart'></i>
+                  </h6>{' '}
+                  <h6>
+                   Trần Thị Cẩm <i className='ti-heart'></i>
+                  </h6>{' '}
+                 
                 </div>
               </div>
             </div>
@@ -57,45 +44,21 @@ function Bridegroom () {
               </div>
               <div className='info valign'>
                 <div className='full-width'>
+                  <span>Chú Rể</span>
                   <h6>
-                    Đức Mạnh <i className='ti-heart'></i>
+                    Phạm Đức Mạnh <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Groom</span>
-                  <p>
-                    Enrico fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
-                  </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
+                  
+                  <span>Nhà trai</span>
+                  <h6>
+                   Phạm Văn Khang <i className='ti-heart'></i>
+                  </h6>{' '}
+                  <h6>
+                   Trịnh Thị Bé <i className='ti-heart'></i>
+                  </h6>{' '}
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-        <div className='row'>
-          <div
-            className='col-md-12 text-center animate-box'
-            data-animate-effect='fadeInUp'
-          >
-            <h3 className='oliven-couple-title'>Are getting married!</h3>
-            <h4 className='oliven-couple-subtitle'>
-              December 15, 2021 — New York, Brooklyn
-            </h4>
           </div>
         </div>
       </div>

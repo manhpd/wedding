@@ -8,54 +8,11 @@ function RSVP () {
     >
       <div className='container'>
         <div className='row justify-content-center'>
-          <div className='col-md-6 bg-white p-40'>
+          <div className='bg-white p-40'>
             {' '}
-            <span className='oliven-title-meta text-center'>Will you attend?</span>
-            <h2 className='oliven-title text-center'>R.S.V.P</h2>
+            <span className='oliven-title-meta text-center'>Sự hiện diện của Quý vị là niềm vinh hạnh cho gia đình chúng tôi!</span>
             <br />
-            <form method='post' className='row'>
-              <div className='col-md-12'>
-                <div className='form-group'>
-                  <input
-                    type='text'
-                    className='form-control'
-                    placeholder='Name'
-                    required
-                  />{' '}
-                </div>
-              </div>
-              <div className='col-md-12'>
-                <div className='form-group'>
-                  <input type='text' className='form-control' placeholder='Email' />{' '}
-                </div>
-              </div>
-              <div className='col-md-12'>
-                <div className='form-group'>
-                  <input
-                    type='text'
-                    className='form-control'
-                    placeholder='Guests'
-                  />{' '}
-                </div>
-              </div>
-              <div className='col-md-12'>
-                <div className='form-group'>
-                  <textarea
-                    name='message'
-                    id='message'
-                    cols='30'
-                    rows='7'
-                    className='form-control'
-                    placeholder='Message'
-                  ></textarea>
-                </div>
-              </div>
-              <div className='col-md-12'>
-                <div className='form-group'>
-                  <input type='submit' className='btn buttono' value='SEND' />{' '}
-                </div>
-              </div>
-            </form>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRxdkO9HSrBkIjADmud1mDskJkVZ5tWR47BsPqn3UFEw23tQ/viewform?embedded=true" height="843" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe>
           </div>
         </div>
       </div>
