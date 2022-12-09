@@ -1,6 +1,7 @@
 import React from 'react'
 import where1 from '../assets/images/where-1.jpg'
 import where2 from '../assets/images/where-2.jpg'
+import { FaMapMarkerAlt } from "react-icons/fa"; 
 function Where () {
   return (
     <div id='whenwhere' className='whenwhere section-padding bg-pink'>
@@ -11,7 +12,7 @@ function Where () {
             <h2 className='oliven-title'>Thời gian & Địa điểm</h2>{' '}
           </div>
         </div>
-        <div className='row'>
+        <div className='row list-item'>
           <div className='item col-12 col-md-4'>
             <div className='whenwhere-img'>
               {' '}
@@ -19,6 +20,7 @@ function Where () {
             </div>
             <div className='content'>
               <h5>Lễ ăn hỏi</h5>
+              <button><a href='https://goo.gl/maps/wWuUDZgW84QQgNd2A' target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
               <p>
                 <i className='ti-location-pin'></i> Nhà khách Nghệ An, 
                 Số 4 Phan Đăng Lưu - Trường Thi - TP. Vinh - Nghệ An
@@ -37,6 +39,7 @@ function Where () {
             </div>
             <div className='content'>
               <h5>Lễ Cưới</h5>
+              <button><a href='https://goo.gl/maps/HdN5JnWH8MfR8CHF8' target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
               <p>
                 <i className='ti-location-pin'></i> Trống Đồng Palace Cảnh Hồ, 
                 173B Trường Chinh - Khương Mai - Thanh Xuân - Hà Nội

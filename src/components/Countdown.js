@@ -41,7 +41,7 @@ function Countdown () {
       <div className='container'>
         <div className='row'>
           <div className='section-head col-md-12'>
-            <h4>Chúng tôi sẽ trờ thành một gia đình trong:</h4>
+            <h4>Chúng tôi sẽ trở thành một gia đình trong:</h4>
           </div>
         </div>
         <div className='row'>

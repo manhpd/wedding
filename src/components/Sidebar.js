@@ -30,7 +30,7 @@ function Sidebar () {
               <a href='#home'>Home</a>
             </li>
             <li>
-              <a href='#couple'>Cô dâu Chú rể</a>
+              <a href='#couple'>Cô dâu & Chú rể</a>
             </li>
             <li>
               <a href='#whenwhere'>Thời gian & Địa điểm</a>
@@ -53,22 +53,11 @@ function Sidebar () {
 
 
       <aside className='nav-bar'>
-        <div className='oliven-logo'>
-          <a href='/'>
-            <img src={Logo} alt='' />
-            <span>
-              Yến <small>&</small> Mạnh
-            </span>
-            <h6>30.12.2022</h6>
-          </a>
-        </div>
+  
         <nav className='oliven-main-menu'>
           <ul>
             <li>
-              <a href='#home'>Home</a>
-            </li>
-            <li>
-              <a href='#couple'>Cô dâu Chú rể</a>
+              <a href='#couple'>Cô dâu & Chú rể</a>
             </li>
             <li>
               <a href='#whenwhere'>Thời gian & Địa điểm</a>
