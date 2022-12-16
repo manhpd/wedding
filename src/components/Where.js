@@ -28,7 +28,7 @@ function Where () {
               <p>
                 <i className='ti-time'></i> <strong>Ngày 24, tháng 12, năm 2022</strong>
                 <br/>
-                <i className='ti-time'></i> <span>11:00am – 13:00pm</span>
+                <i className='ti-time'></i> <span>11:00am – 01:00pm</span>
               </p>
             </div>
           </div>
@@ -42,12 +42,12 @@ function Where () {
               <button><a href='https://goo.gl/maps/HdN5JnWH8MfR8CHF8' rel="noreferrer" target="_blank">Địa điểm <FaMapMarkerAlt /> </a></button>
               <p>
                 <i className='ti-location-pin'></i> Trống Đồng Palace Cảnh Hồ, 
-                173B Trường Chinh - Khương Mai - Thanh Xuân - Hà Nội
+                173B Trường Chinh - Thanh Xuân - Hà Nội
               </p>
               <p>
                 <i className='ti-time'></i> <strong>Ngày 30, tháng 12, năm 2022</strong>
                 <br/>
-                <i className='ti-time'></i> <span>11:00am - 13:00pm</span>
+                <i className='ti-time'></i> <span>11:00am - 01:00pm</span>
               </p>
             </div>
           </div>
